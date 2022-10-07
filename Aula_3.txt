@@ -1,0 +1,191 @@
+    1  Desketop
+    2      ls
+    3  ls
+    4  ls-a
+    5  pdw
+    6   ls
+    7  cd Destop
+    8  CD DESKTOP
+    9  mkdir
+   10  mkdir[lucinda]
+   11  ls
+   12  ls
+   13  mkdir"pastas novas"
+   14  mkdir pastas novas
+   15  mkdir pasta
+   16  cd~
+   17  ls
+   18  mkdir lucinda
+   19  cdcaminho
+   20  cd caminho
+   21  ls
+   22  ls
+   23  mkdir
+   24  mkdir pasta
+   25  pwd
+   26  help
+   27  clean
+   28  clear
+   29  m
+   30  history-c
+   31  cd caminho
+   32  ls
+   33  git remote remove original
+   34  git clone
+   35  git clone
+   36  delete
+   37  Git clone
+   38  git status
+   39  git clone
+   40  git clone
+   41  cd desktop
+   42  ls desktop
+   43  ls
+   44  cd usr
+   45  ls
+   46  cd
+   47  cd exercicio
+   48  ls
+   49  cd desktop
+   50  ls
+   51  clone add commit
+   52  git clone
+   53  git clone https://github.com/eng-flores/exercicio-git/
+   54  git commit-m Lucinda
+   55  git text
+   56  git status
+   57  git commit-m
+   58  git commit-m Lucinda
+   59  commit-tree 
+   60  cd exercicio-git
+   61  commit push
+   62  cd exercicio-git
+   63  cd exercicio-git
+   64  git add
+   65  git add nome do arquivo
+   66  add commit push
+   67  git exercice
+   68  cd exercicio-git
+   69  add commit push
+   70  git add test.txt
+   71  git clone
+   72  ls
+   73  git status
+   74  git add
+   75  git add Lucinda
+   76  git push origin main
+   77  git add teste.txt
+   78  git commit
+   79  git commit -m
+   80  git commit -m "mensagem"
+   81  git config --global user.email "email@example.com
+   82  git config --global user.email "lucindarapido261@gmail.com"
+   83  git config --global user.name "lucindagoncalves"
+   84  git commit -m "mensagem"
+   85  git push
+   86  git pull
+   87  git push
+   88  git pull origin main
+   89  git add
+   90  git add .
+   91  git pull origin main
+   92  git add .
+   93  cd
+   94  clean
+   95  ls
+   96   ls-a
+   97  ls -a
+   98   pwd
+   99  ls
+  100  cd desktop
+  101  cd 
+  102  cd ~
+  103   mkdir
+  104  ls
+  105  mkdir pasta nova
+  106  mdir "pasta nova"
+  107  cd
+  108  cd desktop
+  109  mkdir "pasta nova"
+  110  ls
+  111  mv 'pasta nova' pasta_nova
+  112  ls
+  113  mkdir new
+  114  ls
+  115  mv nem pasta_nova/
+  116  mv new pasta_nova/
+  117   new pasta_nova
+  118  mkdir Lucinda
+  119  mkdir pasta nova lucinda
+  120  mkdir pasta nova
+  121  mkdir pasta lucinda
+  122  cd..
+  123  ls
+  124  cd ..
+  125  cd comandos/
+  126  cd Comandos/
+  127  ls
+  128   cd ..
+  129  cd Comandos/
+  130  touch arquivo.txt
+  131  mkdir new
+  132    touch arquivo.txt
+  133   cat
+  134  help
+  135  clear
+  136  history
+  137  history > historico.txt
+  138  history > historico. new pagina
+  139  lear
+  140  clear
+  141  git config --global user.name 'Lucinda Gonçalves
+
+git config --global user.email 'lucindarapido261@gmail.com
+  142   git config user.name
+  143   git init
+  144  git config user .name
+  145   git config user .name
+  146  git config user.name
+  147  cd desktop
+  148  cd Desktop
+  149  cd Desktop/
+  150  cd Desktop/
+  151  git config user.name
+  152  mkdir Curso-Git/
+  153  mkdir Curso_Git/
+  154  mkdir Curso_Git
+  155  cd
+  156  cd Desktop/
+  157  mkdir Curso_git
+  158  ls
+  159  cd Curso_git/
+  160  git config user.name
+  161  git init
+  162  ls
+  163  git status
+  164  echo '#Aprendendo usar o Git' > readme.md
+  165  git status
+  166  git add readme.md
+  167  git status
+  168  git commit -m 'Commit inicial'
+  169  echo  '##Aula 1' >> readme.md
+  170  git status
+  171  echo  'Lucinda Gonçalves'  > participantes.txt
+  172  git status
+  173   git add.
+  174   git add .
+  175  git status
+  176    git restore --staged participantes.txt
+  177  git status
+  178  git add participantes.txt
+  179   git restore --staged .
+  180  git status
+  181  git commit -am 'Alteração no readme'
+  182  git status
+  183  git add participantes.txt
+  184  git status
+  185  git commit -m 'Adicionado participantes.txt
+
+
+  186  git commit -m 'Adicionado participantes.txt'
+  187  history > Aula_3.txt
